@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cover_flow_layout_width">628dp</dimen>
+    <dimen name="cover_flow_layout_height">207dp</dimen>
+    <dimen name="cover_flow_pager_width">314dp</dimen>
+    <dimen name="cover_flow_pager_height">177dp</dimen>
+    <dimen name="cover_flow_pager_horizontal_margin">155dp</dimen>
+    <dimen name="cover_flow_margin_bottom">20dp</dimen>
+    <dimen name="category_list_item_padding">15dp</dimen>
+    <dimen name="category_list_item_margin_vertical">10dp</dimen>
+</resources>

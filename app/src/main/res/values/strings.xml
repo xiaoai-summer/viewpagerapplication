@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewPagerApplication</string>
+    <string name="simple_view_pager">简单viewpager页</string>
+</resources>
